@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Dowhileifelse {
 
             
-    public static void main(String[] args)throws InterruptedException{
+    public static void main(String[] args) {
         char chr;
         
         do {
