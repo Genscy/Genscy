@@ -1,16 +1,1 @@
-### Hi there 👋
-
-<!--
-**Genscy/Genscy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... nope I'm just a student
-- 🌱 I’m currently learning ... Java
-- 👯 I’m looking to collaborate on ... doing my projects
-- 🤔 I’m looking for help with ... programming
-- 💬 Ask me about ... fundamentals of Java
-- 📫 How to reach me: ... N/A
-- 😄 Pronouns: ... lowkey?
-- ⚡ Fun fact: ... Albert Einstein was alive before he dies
--->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=I'm+Requillas%2C+Genscy;Nice+to+meet+you!" alt="Typing SVG" /></a>
