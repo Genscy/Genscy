@@ -7,9 +7,9 @@ import java.util.Random;
 public class Joption {
 
     public static void main(String[] args) {
-       JOptionPane input = new JOptionPane("Laluan"); 
+       JOptionPane input = new JOptionPane("Blank"); 
        Random raa = new Random();
-       JOptionPane.showMessageDialog(null, "Hi, ");
+       JOptionPane.showMessageDialog(null, "Blank ");
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
     
      int shown = 100;
