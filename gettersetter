@@ -1,0 +1,29 @@
+package gettersetter;
+
+public class GetterSetter {
+
+    public static void main(String[] args) {
+        Vehicle car = new Vehicle();
+        
+        //setter
+        car.setSpeed(70);
+        System.out.println(car.getSpeed());
+    }
+}
+
+package gettersetter;
+
+
+public class Vehicle {
+    private int speed;
+    
+    //getter
+    public int getSpeed(){
+    return speed;
+    }
+    
+    //setter
+    public void setSpeed(int speed){
+        this.speed = speed;
+    }
+}
